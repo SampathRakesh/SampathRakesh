@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SampathRakesh
-- 👀 I’m interested in web development, machine learning, deep learning. 
+- 👀 I'm Coding enthusiast.     
+     Java full stack developer
 - 🌱 I’m currently learning machine learning. 
 - 💞️ I’m looking to collaborate on web development (React Js) projects . 
 
