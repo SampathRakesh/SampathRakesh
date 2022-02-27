@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SampathRakesh
 - 👀 I'm Coding enthusiast.     
      Java full stack developer
-- 🌱 I’m currently learning machine learning. 
+- 🌱 I’m currently learning Data science. 
 - 💞️ I’m looking to collaborate on web development (React Js) projects . 
 
 <!---
